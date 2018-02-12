@@ -17,11 +17,8 @@ _Displays Hello World in different languages _
 * cd ~
 * cd desktop
 * git clone https://github.com/Griflongtin/hello-world.git
-* cd react-tap-room
-* mpn install
-* npm run start
 
-* _Then open this http://localhost:8080_
+* Then open the HTML file in the folder
 
 ## Support and contact details
 
